@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋,
 
-<!--
-**Latiffhl/Latiffhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineering student and also a graphic designer I have an interest in the world of programming, especially to become a fullstack developer by utilizing updated technology ❤️
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out some of the things I'm building!
+
+- [Suvarna](https://suvarna-mu.vercel.app/)
+
+
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/latiffalikal/)
+[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/latiffhalik_22/)
