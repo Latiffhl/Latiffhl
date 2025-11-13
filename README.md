@@ -1,3 +1,5 @@
+![https://github-readme-stats.vercel.app/api?username=latiffhl&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=latiffhl&hide=contribs,prs,issues)
+
 ## Hi there 👋,
 
 I am a software engineering student and also a graphic designer I have an interest in the world of programming, especially to become a fullstack developer by utilizing updated technology ❤️
